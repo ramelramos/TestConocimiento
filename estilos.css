@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+.fondo{
+    
+    
+ background:url(img/MasterYi_10.jpg) no-repeat center center fixed ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	
+	 width: 100%;}
+	 
+	 .cuerpo {
+	
+	background:rgba(0,0,0,0.6);
+	color:#FFFFFF;
+	
+	
+	
+	}
